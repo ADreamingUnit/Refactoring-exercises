@@ -1,0 +1,7 @@
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\BossFight\bin\Debug\BossFight.exe.config
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\BossFight\bin\Debug\BossFight.exe
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\BossFight\bin\Debug\BossFight.pdb
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\BossFight\obj\Debug\BossFight.csprojAssemblyReference.cache
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\BossFight\obj\Debug\BossFight.csproj.CoreCompileInputs.cache
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\BossFight\obj\Debug\BossFight.exe
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\BossFight\obj\Debug\BossFight.pdb

@@ -1,0 +1,7 @@
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\CharacterMenu\bin\Debug\CharacterMenu.exe.config
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\CharacterMenu\bin\Debug\CharacterMenu.exe
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\CharacterMenu\bin\Debug\CharacterMenu.pdb
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\CharacterMenu\obj\Debug\CharacterMenu.csprojAssemblyReference.cache
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\CharacterMenu\obj\Debug\CharacterMenu.csproj.CoreCompileInputs.cache
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\CharacterMenu\obj\Debug\CharacterMenu.exe
+C:\Users\hlevn\Desktop\Projects\Refactoring_Exercises\CharacterMenu\obj\Debug\CharacterMenu.pdb
